@@ -1,0 +1,11 @@
+* text=auto
+
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.syscfg text eol=lf
+*.xml text eol=lf
+*.ccxml text eol=lf
+*.project text eol=lf
+*.cproject text eol=lf
+*.ccsproject text eol=lf

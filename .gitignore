@@ -1,0 +1,33 @@
+# Code Composer Studio generated build output
+Debug/
+Release/
+Objects/
+Listings/
+
+# Tool and editor state
+.settings/
+.vscode/
+.clangd
+.clangd/
+
+# Local deep-dive notes retained outside the public source package
+driver_deep_analysis.md
+
+# Compiled firmware and intermediate files
+*.out
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.obj
+*.d
+*.tmp
+*.log
+
+# Local report/render artifacts
+report_build*/
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
